@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bnry Oprtr Ovrlding to Subtract Complex Numb", "Bnry Oprtr Ovrlding to Subtract Complex Numb\Bnry Oprtr Ovrlding to Subtract Complex Numb.vcxproj", "{C16300B2-E3E3-4E55-8CAE-BA634CF6FF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16300B2-E3E3-4E55-8CAE-BA634CF6FF34}.Debug|x64.ActiveCfg = Debug|x64
+		{C16300B2-E3E3-4E55-8CAE-BA634CF6FF34}.Debug|x64.Build.0 = Debug|x64
+		{C16300B2-E3E3-4E55-8CAE-BA634CF6FF34}.Debug|x86.ActiveCfg = Debug|Win32
+		{C16300B2-E3E3-4E55-8CAE-BA634CF6FF34}.Debug|x86.Build.0 = Debug|Win32
+		{C16300B2-E3E3-4E55-8CAE-BA634CF6FF34}.Release|x64.ActiveCfg = Release|x64
+		{C16300B2-E3E3-4E55-8CAE-BA634CF6FF34}.Release|x64.Build.0 = Release|x64
+		{C16300B2-E3E3-4E55-8CAE-BA634CF6FF34}.Release|x86.ActiveCfg = Release|Win32
+		{C16300B2-E3E3-4E55-8CAE-BA634CF6FF34}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D79E0F-B054-4A4E-840D-D15301C1C33C}
+	EndGlobalSection
+EndGlobal
